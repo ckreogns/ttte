@@ -1,7 +1,9 @@
 
 // ChildView.cpp : CChildView 클래스의 구현
 //
-
+//추가한 내용입니다.
+// 이것도 추가합나디.
+//또합니다.
 #include "stdafx.h"
 #include "di.h"
 #include "ChildView.h"
